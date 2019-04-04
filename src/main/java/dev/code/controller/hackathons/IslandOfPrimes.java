@@ -1,4 +1,4 @@
-package dev.code.controller;
+package dev.code.controller.hackathons;
 
 
 import java.util.Arrays;
